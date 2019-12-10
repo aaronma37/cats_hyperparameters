@@ -1,5 +1,7 @@
 # Tree search parameters
+
 c1:.5
+
 c2:.01
 discount factor: 0.9
 
